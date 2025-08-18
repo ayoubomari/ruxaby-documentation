@@ -1,0 +1,18 @@
+/* src/styles/starlight.css */
+:root {
+  /* Generated accent color palettes using secondary colors */
+  --color-accent-200: #b9bacb;
+  --color-accent-600: #0F3460;
+  --color-accent-900: #0c0e30;
+  --color-accent-950: #080a20;
+
+  /* Generated gray color palettes using grey colors */
+  --color-gray-100: #F6F9FC;
+  --color-gray-200: #F3F5F9;
+  --color-gray-300: #E3E9EF;
+  --color-gray-400: #DAE1E7;
+  --color-gray-500: #AEB4BE;
+  --color-gray-700: #4B566B;
+  --color-gray-800: #373F50;
+  --color-gray-900: #20242b;
+}
