@@ -6,6 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://docs.ruxaby.com',
   server: {
     port: 3006,
     allowedHosts: ["docs.ruxaby.com"],

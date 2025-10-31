@@ -72,7 +72,7 @@ Product Price - Platform Fee = Net Payout
 
 **Standard Fee Structure**:
 - **Percentage fees**: 5% of the product price when you sell
-- **Listing fees**: 10 ALGO for each new listing
+- **Listing fees**: 1 ALGO for each new listing
 - **No monthly subscription costs**
 
 **Fee Calculation Timing**:

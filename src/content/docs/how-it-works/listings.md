@@ -107,8 +107,8 @@ Automatically calculated based on the product price plus the seller's deposit re
 
 These are fixed parameters that govern transactions across the entire Ruxaby platform, ensuring consistency and predictability.
 
-*   **Platform Fee Percentage**: 5%
-*   **Listing Fee Amount**: 10 ALGO
+*   **Platform Fee Percentage**: 4%
+*   **Listing Fee Amount**: 1 ALGO
 *   **Slippage Percentage**: 0.5%
 *   **Escrow Release After Delivery**: 7 days
 *   **Maximum Deposit Amount**: 500 USDC
